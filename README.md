@@ -1,1 +1,1 @@
-A simple calculator that does the addition of any 2 numbers, created in Python. 
+Simple calculators that do the addition of any 2 numbers, created in Python.
